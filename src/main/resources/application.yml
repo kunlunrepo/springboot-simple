@@ -1,0 +1,9 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: springboot-simple
+
+logging:
+  level:
+    com.msb.util.HttpUtil: DEBUG
